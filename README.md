@@ -30,8 +30,41 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
+```
+/* home page */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #E70F0F;
+
+
+/* Login page */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FBF106;
+
+
+/* SEC page */
+
+
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #F518EC;
+```
 
 ## OUTPUT:
+![HOMEPAGE](Screenshot%20(6).png)
+![LOGINPAGE](Screenshot%20(7).png)
+![SECPAGE](Screenshot%20(8).png)
 
 
 ## RESULT:
